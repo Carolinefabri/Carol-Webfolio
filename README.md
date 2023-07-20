@@ -1,44 +1,41 @@
-# vCard - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+#Welcome to My Web Developer Portfolio
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Demo
+###About Me
+Hello! I am Caroline , a passionate Junior Full Stack Developer with a background in Social Work. My journey in web development has been driven by a desire to solve problems and create innovative solutions. With a solid foundation in HTML, CSS3, JavaScript (ES6), React, Node.js, Express.js, MongoDB, Mongoose, Git, GitHub, and REST API, I am ready to take on exciting web development challenges.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+In my previous profession as a Social Worker, I honed excellent communication, empathy, and critical thinking skills, which I believe are invaluable assets in web development. I thrive in collaborative environments and have experience working effectively in multidisciplinary teams.
 
-## Prerequisites
+###My Skills
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Git and GitHub
+- REST API
+- Communication
+- Empathy
+- Critical Thinking
 
-Before you begin, ensure you have met the following requirements:
+  
+###Education
+Centro Universitário Salesiano de São Paulo- Bachelor's degree - Social Work
+Ironhack - Full Stack Web Developer
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+###My Interests
+In addition to my passion for coding, I'm an avid reader, a fan of sports like judo, jiu-jitsu, and cycling, and I love to travel and discover new things. These experiences enrich my perspective, spur my creativity, and inspire me to tackle challenges in a way that innovative and resilient.
 
-## Installing vCard
 
-To install **vCard**, follow these steps:
 
-Linux and macOS:
+###What I'm Looking For
+As a junior developer, my goal is to contribute my skills and enthusiasm to an organization that values teamwork, offers engaging projects, and encourages continuous learning. I'm excited about the opportunity to be part of a collaborative team and make a positive impact in the field of software development.
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+###Contact Me
+I am open to new opportunities and collaborations. If you are interested in working together or want to learn more about my skills and experiences, feel free to reach out to me at carolinefabri.dev@hotmail.com  . You can also find me on LinkedIn for more information.
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+Let's connect and create something incredible together! 😊
