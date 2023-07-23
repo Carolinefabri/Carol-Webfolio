@@ -568,7 +568,7 @@ main {
  * #testimonials 
  */
 
-.testimonials { margin-bottom: 30px; }
+.testimonials { margin-bottom: 30px;  }
 
 .testimonials-title { margin-bottom: 20px; }
 
@@ -589,6 +589,7 @@ main {
 .testimonials-item {
   min-width: 100%;
   scroll-snap-align: center;
+  background: linear-gradient(135deg, #3394b4,hsl(306, 54%, 58%));
 }
 
 .testimonials-avatar-box {
