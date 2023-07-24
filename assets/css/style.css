@@ -590,6 +590,7 @@ main {
   min-width: 100%;
   scroll-snap-align: center;
   background: linear-gradient(135deg, #3394b4,hsl(306, 54%, 58%));
+  border-radius: 14px;
 }
 
 .testimonials-avatar-box {
