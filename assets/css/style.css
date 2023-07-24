@@ -1635,6 +1635,11 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .project-list, .blog-posts-list { grid-template-columns: 1fr 1fr; }
 
+  .project-img img {
+    width: 200px; 
+    height: 200px; 
+  }
+  
 
 
   /**
